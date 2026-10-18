@@ -13,7 +13,7 @@ how i figured it out: [docs/how-it-works.md](docs/how-it-works.md)
 fedora:
 
 ```
-sudo dnf install pipewire-module-filter-chain-lv2 lsp-plugins-lv2 calf p7zip p7zip-plugins
+sudo dnf install pipewire-module-filter-chain-lv2 lsp-plugins-lv2 lv2-calf-plugins p7zip p7zip-plugins
 ./asus-dts-linux.py install
 ```
 
